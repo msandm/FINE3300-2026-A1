@@ -12,7 +12,7 @@ This project is a Python program that converts money between US dollars (USD) an
 **Author:** Moosa Nadeem
 
 ## Part 1 – Currency Converter Class
-In Part 1, I designed a Python class, that reads exchange rate data from `[exchange_rate_file.csv]` and converts amounts between USD and CAD.
+In Part 1, I will design a Python class, that reads exchange rate data from `[BankOfCanadaExchangeRate.2026.csv]` and converts amounts between USD and CAD.
 
 The class includes a method, `[convert]`, that takes three inputs:
 1. **Amount** – the amount of money to convert
